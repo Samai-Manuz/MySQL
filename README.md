@@ -7,6 +7,7 @@ Este repositorio contiene un conjunto de **consultas SQL** resueltas sobre la ba
 ## 📂 Contenido del repositorio
 
 - `MySQL Queries.sql`: Archivo con la serie completa de consultas y ejercicios SQL resueltos.
+- `Feedback`: Archivo con el feedback recibido sobre el ejercicio realizado.
 - `README.md`: Descripción del proyecto y guía rápida.
 
 ---
